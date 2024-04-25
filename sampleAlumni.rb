@@ -7,8 +7,8 @@ location:
 card_type: alumni_card
 linkedin_url:
 whatsapp_number: 
-pre_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/875/original/wipro-logo-new-og-502x263.jpg?1713936508
-post_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/878/original/google_1.svg?1713936640
+pre_scaler_org_logo_url: 
+post_scaler_org_logo_url: 
 hours_attended: 
 problems_solved: 
 mentor_details: [

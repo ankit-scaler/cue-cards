@@ -1,0 +1,25 @@
+---
+alumni_name: Rishi Prakash
+alumni_image_url: 
+role: Software Engineer 2
+batch: Jan20 Scaler Batch
+location: Gurgaon
+card_type: alumni_card
+linkedin_url: https://www.linkedin.com/in/rishi-prakash-developer/
+whatsapp_number: 9992331690
+pre_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/194/original/accenture.png?1714069892
+post_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/196/original/microsoft.png?1714069933
+hours_attended: 
+problems_solved: 
+mentor_details: [
+
+]
+additional_skills_count: 26+
+salary_hike: 
+---
+
+# Skills
+- C++
+- C
+- SQL
+- Java
