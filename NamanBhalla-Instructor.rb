@@ -1,14 +1,14 @@
 ---
 instructor_name: Naman Bhalla
 instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/205/original/namanBhalla.jpg?1714073303
-class_rating: 4.7
+class_rating: 4.78
 location: Bengaluru, KA, India
 card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/namanbhalla/'
-introduction_bio: "Senior Product Manager & Lead Instructor, Scaler
-Ex-Software Developer at Google
-Secured Global Rank 135 in Google Kickstart Round D
-ACM ICPC 2019-20 Kanpur Regionals Rank 37"
+introduction_bio: "Senior Product Manager & Lead Instructor, Scaler.
+Ex-Software Developer at Google.
+Secured Global Rank 135 in Google Kickstart Round D.
+ACM ICPC 2019-20 Kanpur Regionals Rank 37."
 num_learners: 36971+
 hour_classes: 886+
 work_history: [
