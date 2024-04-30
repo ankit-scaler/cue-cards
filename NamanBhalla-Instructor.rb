@@ -2,7 +2,7 @@
 instructor_name: Naman Bhalla
 instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/205/original/namanBhalla.jpg?1714073303
 class_rating: 4.7
-location: 
+location: Bengaluru, KA, India
 card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/namanbhalla/'
 introduction_bio: "Senior Product Manager & Lead Instructor, Scaler
@@ -24,6 +24,7 @@ work_history: [
       },
 ]
 students_working_at_company_logos: [
+    
 ]
 ---
 
