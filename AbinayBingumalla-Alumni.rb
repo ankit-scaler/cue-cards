@@ -10,7 +10,7 @@ whatsapp_number: 9703535151
 pre_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/197/original/relianceJio.png?1714070781
 post_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/196/original/microsoft.png?1714069933
 hours_attended: 
-problems_solved: 
+problems_solved: 350
 mentor_details: [
  {
     image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/877/original/Shivank_2.png?1713936614',
