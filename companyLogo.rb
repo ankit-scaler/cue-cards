@@ -11,5 +11,18 @@ Amazon: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/880/o
 Mastercard: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/199/original/matercard.jpeg?1714072132
 Ground Truth: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/201/original/groundTruth.png?1714072274
 ZS: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/202/original/zs.png?1714072398
+Trane Technologies: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/085/original/trane_technologies.png?1715085595
+Airbus: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/086/original/Airbus.jpeg?1715085812
+Bacancy Technology: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/089/original/Bacancy_Technology.png?1715087570
+Walmart: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/091/original/walmart.png?1715087652
+Media.net: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/097/original/medianet.png?1715088395
+InterviewBit: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/098/original/interviewbit.png?1715088548
+Scaler: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/100/original/scaler.png?1715088617
+
+
+
+
+
+
 
 

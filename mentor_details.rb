@@ -10,3 +10,5 @@
     company_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/878/original/google_1.svg?1713936640',
     topic: 'Taught Prakash HLD/LLD'
   }
+
+  
