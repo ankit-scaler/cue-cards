@@ -18,11 +18,13 @@ Walmart: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/091/
 Media.net: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/097/original/medianet.png?1715088395
 InterviewBit: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/098/original/interviewbit.png?1715088548
 Scaler: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/100/original/scaler.png?1715088617
-
-
-
-
-
+Infosys: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/178/original/infosys.png?1715117967
+zetwerk: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/179/original/zetwerk.png?1715118041
+Samsung: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/180/original/samsung.jpeg?1715119857
+HCL: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/181/original/hcl.jpeg?1715121020
+Paypal: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/182/original/paypal.png?1715121457
+Paytm: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/183/original/paytm.jpeg?1715124956
+Intuit: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/184/original/intuit.jpeg?1715125019
 
 
 

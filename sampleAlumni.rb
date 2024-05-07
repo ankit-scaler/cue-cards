@@ -2,7 +2,7 @@
 alumni_name: 
 alumni_image_url: 
 role: 
-batch: Nov22 Scaler Batch
+batch: 
 location: 
 card_type: alumni_card
 linkedin_url:
@@ -12,6 +12,12 @@ post_scaler_org_logo_url:
 hours_attended: 
 problems_solved: 
 mentor_details: [
+  {
+    image: '',
+    name: '',
+    company_logo_url: '',
+    topic: ''
+  },
   {
     image: '',
     name: '',
