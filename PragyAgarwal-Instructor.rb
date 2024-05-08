@@ -1,8 +1,8 @@
 ---
 instructor_name: Pragy Agarwal
 instructor_image_url: 'https://media.licdn.com/dms/image/C4E03AQEOzMDmuV_hpA/profile-displayphoto-shrink_800_800/0/1516496871103?e=1720656000&v=beta&t=ErEzWSryVIGg29dKbDHesO4xu_QZQc92WrnPcoEILXA'
-class_rating: 
-location: 
+class_rating: 4.72
+location: Bengaluru
 card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/agarwalpragy/'
 introduction_bio: "Senior Software Engineer, InterviewBit.
@@ -10,8 +10,8 @@ Instructor & Mentor, Scaler.
 An IIT-Bombay alumnus.
 Former Platform Engineer at Media.Net.
 16+ years of programming experience."
-num_learners: 
-hour_classes: 
+num_learners: 5510
+hour_classes: 1541.7
 work_history: [  
     {
         "company": "InterviewBit",
