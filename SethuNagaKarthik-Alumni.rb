@@ -9,7 +9,7 @@ linkedin_url: 'https://www.linkedin.com/in/sethunagakarthik-fullstackdev/'
 whatsapp_number: 9566841129
 pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/085/original/trane_technologies.png?1715085595'
 post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/086/original/Airbus.jpeg?1715085812'
-hours_attended: 
+hours_attended: 509.9
 problems_solved: 271
 mentor_details: [
   {
