@@ -1,6 +1,6 @@
 ---
 instructor_name: Pragy Agarwal
-instructor_image_url: 'https://media.licdn.com/dms/image/C4E03AQEOzMDmuV_hpA/profile-displayphoto-shrink_800_800/0/1516496871103?e=1720656000&v=beta&t=ErEzWSryVIGg29dKbDHesO4xu_QZQc92WrnPcoEILXA'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/373/original/Instructor_shoot0088_1-min.jpg?1715259927'
 class_rating: 4.72
 location: Bengaluru
 card_type: instructor_card
