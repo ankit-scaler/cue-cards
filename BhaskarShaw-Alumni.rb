@@ -9,7 +9,7 @@ linkedin_url: 'https://www.linkedin.com/in/bhaskar-shaw-4a9112152/'
 whatsapp_number: 7980031612
 pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/194/original/accenture.png?1714069892'
 post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/091/original/walmart.png?1715087652'
-hours_attended: 
+hours_attended: 673
 problems_solved: 208
 mentor_details: [
   {
