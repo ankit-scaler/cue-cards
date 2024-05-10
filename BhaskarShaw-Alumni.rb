@@ -13,15 +13,15 @@ hours_attended:
 problems_solved: 208
 mentor_details: [
   {
-    image: '',
-    name: 'Shashank Agarwal',
-    company_logo_url: '',
+    image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/877/original/Shivank_2.png?1713936614',
+    name: 'Prateek Narang',
+    company_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/878/original/google_1.svg?1713936640',
     topic: 'Taught Bhaskar DSA'
   },
   {
-    image: '',
-    name: 'Manivannan senthurpandian',
-    company_logo_url: '',
+    image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/879/original/Naman_Bhalla_02_5.png?1713936684',
+    name: 'Naman Bhalla',
+    company_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/878/original/google_1.svg?1713936640',
     topic: 'Taught Bhaskar Java'
   },
   
