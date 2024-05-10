@@ -23,7 +23,10 @@ work_history: [
     },
 ]
 students_working_at_company_logos: [
-    
+    "https://pbs.twimg.com/profile_images/1440775265928417284/ywTBFW6L_400x400.png",
+    'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/880/original/0a06600cc3cedeb49280b54114c88ce6.jpg?1713936860',
+    "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/071/881/original/swiggy-1.svg?1713936920",
+    "https://pbs.twimg.com/profile_images/1408089447455891461/hwvI8tM1_400x400.jpg",
 ]
 ---
 
