@@ -1,10 +1,10 @@
 ---
 instructor_name: Tanmay Kacker
-instructor_image_url: 
+instructor_image_url: "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets//original/TanmayKacker_Instructor-min.JPG?1715333653"
 class_rating: 4.71
-location: 
+location: Bengaluru, KA, India
 card_type: instructor_card
-linkedin_url: 
+linkedin_url: "https://github.com/kanmaytacker"
 introduction_bio: "Ex-Tech Lead, Locus
 Ex-Senior Software Developer, Practo
 Postgraduate student, Cranfield University, UK"
