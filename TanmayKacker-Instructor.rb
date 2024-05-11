@@ -1,6 +1,6 @@
 ---
 instructor_name: Tanmay Kacker
-instructor_image_url: "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets//original/TanmayKacker_Instructor-min.JPG?1715333653"
+instructor_image_url: "https://avatars.githubusercontent.com/u/6458661?v=4"
 class_rating: 4.71
 location: Bengaluru, KA, India
 card_type: instructor_card
