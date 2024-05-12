@@ -25,6 +25,6 @@ HCL: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/181/orig
 Paypal: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/182/original/paypal.png?1715121457
 Paytm: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/183/original/paytm.jpeg?1715124956
 Intuit: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/184/original/intuit.jpeg?1715125019
-
+Facebook: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/669/original/facebook.png?1715526822
 
 
