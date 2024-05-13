@@ -36,3 +36,4 @@ students_working_at_company_logos: [
 - System Design Expert
 - DSA Expert
 - Java Expert
+- Python Expert
