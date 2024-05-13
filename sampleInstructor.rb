@@ -16,6 +16,11 @@ work_history: [
     },
 ]
 students_working_at_company_logos: [
+    "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/745/original/google.webp?1715593708",
+    "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/746/original/amazon.webp?1715593782",
+    "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/747/original/microsoft.webp?1715593910",
+    "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/748/original/swiggy.webp?1715594132",
+
 ]
 ---
 
