@@ -14,7 +14,7 @@ hour_classes: 1088+
 work_history: [
     {
         "company": "Scaler",
-        "title": 'Lead Data Scientist & Instructor',
+        "title": 'Senior Manager- Data Science & Machine Learning',
         "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/742/original/scaler.webp?1715593070"
     },
     {
@@ -43,7 +43,7 @@ students_working_at_company_logos: [
 ---
 
 # Skill Tags
-- System Design Expert
-- Java Expert
-- C++ Expert
 - Machine Learning Expert
+- MLOps Expert
+- Generative AI Expert
+- Advanced Data Analytics Expert
