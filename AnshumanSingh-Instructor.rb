@@ -10,7 +10,7 @@ Worked with Mark Zuckerberg and led the team that built Facebook Messenger.
 Was responsible for setting up Facebook's office outside the US.
 Ex-Tech Team Lead at Facebook.
 Star coder who represented India in the ICPC world finals twice."
-num_learners: 
+num_learners: 38622
 hour_classes: 1013.8
 work_history: [
     {
@@ -35,6 +35,7 @@ students_working_at_company_logos: [
 ---
 
 # Skill Tags
-- System Design Expert
 - DSA Expert
-- Java Expert
+- Python Expert
+- C++ Expert
+- Machine Learning Expert
