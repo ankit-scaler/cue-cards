@@ -10,7 +10,7 @@ Built an International Market Pricing Strategy for Mastercard.
 Led large-scale Data Science projects at Mastercard.
 Lead Analytics & ML Business Cases at Scaler."
 num_learners: 10904+
-hour_classes: 
+hour_classes: 1088+
 work_history: [
     {
         "company": "Scaler",
