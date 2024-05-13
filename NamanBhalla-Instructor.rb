@@ -1,6 +1,6 @@
 ---
 instructor_name: Naman Bhalla
-instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/072/205/original/namanBhalla.jpg?1714073303
+instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/750/original/namanBhalla.webp?1715596616
 class_rating: 4.78
 location: Bengaluru, KA, India
 card_type: instructor_card
@@ -15,16 +15,20 @@ work_history: [
     {
         "company": "Scaler",
         "title": 'Instructor',
-        "company_logo_url": "https://pbs.twimg.com/profile_images/1491663604487102465/_jWKH2Gt_400x400.jpg"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/742/original/scaler.webp?1715593070"
       },
       {
         "company": "Google",
         "title": "Software Engineer",
-        "company_logo_url": "https://pbs.twimg.com/profile_images/1440775265928417284/ywTBFW6L_400x400.png"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/751/original/google.webp?1715597034"
       },
 ]
 students_working_at_company_logos: [
-    
+    "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/745/original/google.webp?1715593708",
+    "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/746/original/amazon.webp?1715593782",
+    "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/747/original/microsoft.webp?1715593910",
+    "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/748/original/swiggy.webp?1715594132",
+
 ]
 ---
 
