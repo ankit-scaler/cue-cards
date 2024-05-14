@@ -1,7 +1,7 @@
 ---
 alumni_name: Arun m v	
 alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/832/original/Arun_MV_%282%29.webp?1715678338'
-role: 
+role: Machine Learning Engineer
 batch: DSML Feb22 Intermediate	
 location: Mysore, KA, India
 card_type: alumni_card
