@@ -12,7 +12,7 @@ post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/a
 hours_attended: 151+
 problems_solved: 318+
 
-instructor_details: [
+mentor_details: [
   {
     image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/859/original/namanBhalla_%281%29.webp?1715691506',
     name: 'Naman Bhalla',
