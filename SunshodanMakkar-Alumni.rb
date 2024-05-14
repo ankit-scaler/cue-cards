@@ -22,7 +22,7 @@ mentor_details: [
     image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/861/original/anshuman_%281%29.webp?1715691886',
     name: 'Anshuman Singh',
     company_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/862/original/scaler_%281%29.webp?1715692250',
-    topic: 'Taught DSA'
+    topic: 'Taught SQL'
   },
 ]
 additional_skills_count: 22+
