@@ -26,7 +26,6 @@ mentor_details: [
   },
 ]
 additional_skills_count: 22+
-salary_hike: 
 ---
 
 # Skills
