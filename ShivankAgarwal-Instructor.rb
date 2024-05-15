@@ -5,9 +5,10 @@ class_rating: 4.8
 location: Bengaluru, KA, India
 card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/shivankagrawal/'
-introduction_bio: "Ex-Senior Software Development Manager at Microsoft.
+introduction_bio: "Senior V.P., Data Science at Scaler.
+Ex-Senior Software Development Manager at Microsoft.
 Ex-Engineering Manager at Inmob.
-Ex-Software Development Manager at Oracle
+Ex-Software Development Manager at Oracle.
 "
 num_learners: 7073+
 hour_classes: 1629+
