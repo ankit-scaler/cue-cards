@@ -26,7 +26,7 @@ mentor_details: [
       },
   
 ]
-additional_skills_count: 27+
+additional_skills_count: 27
 salary_hike: 424%
 ---
 
