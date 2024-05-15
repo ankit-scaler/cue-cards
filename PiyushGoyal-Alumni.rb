@@ -27,7 +27,11 @@ mentor_details: [
   
 ]
 additional_skills_count: 50
+<<<<<<< HEAD
 salary_hike: 104%
+=======
+salary_hike: 104
+>>>>>>> ea9b3f44901e1978da4b95951e4e82b42350ccc0
 ---
 
 # Skills
