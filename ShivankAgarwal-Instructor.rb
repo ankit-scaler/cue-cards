@@ -10,8 +10,8 @@ Ex-Senior Software Development Manager at Microsoft.
 Ex-Engineering Manager at Inmob.
 Ex-Software Development Manager at Oracle.
 "
-num_learners: 7073+
-hour_classes: 1629+
+num_learners: 7073
+hour_classes: 1629
 work_history: [
     {
         "company": "Microsoft",
