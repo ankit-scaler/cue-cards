@@ -9,8 +9,8 @@ linkedin_url: 'https://www.linkedin.com/in/shriram-bhat-berolli/'
 whatsapp_number: 8884680706
 pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/869/original/hcl.webp?1715696143'
 post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/871/original/paypl.webp?1715696357'
-hours_attended: 278+
-problems_solved: 179+
+hours_attended: 278
+problems_solved: 179
 mentor_details: [
     {
         image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/859/original/namanBhalla_%281%29.webp?1715691506',
@@ -27,7 +27,7 @@ mentor_details: [
   
   
 ]
-additional_skills_count: 40+
+additional_skills_count: 40
 ---
 
 # Skills
