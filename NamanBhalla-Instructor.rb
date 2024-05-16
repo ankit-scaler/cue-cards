@@ -1,6 +1,6 @@
 ---
 instructor_name: Naman Bhalla
-instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/750/original/namanBhalla.webp?1715596616
+instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/106/original/namanBhalla_%282%29.webp?1715864737
 class_rating: 4.78
 location: Bengaluru, KA, India
 card_type: instructor_card
