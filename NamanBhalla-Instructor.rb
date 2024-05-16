@@ -9,8 +9,8 @@ introduction_bio: "Senior Product Manager & Lead Instructor, Scaler.
 Ex-Software Developer at Google.
 Secured Global Rank 135 in Google Kickstart Round D.
 ACM ICPC 2019-20 Kanpur Regionals Rank 37."
-num_learners: 36971+
-hour_classes: 886+
+num_learners: 36971
+hour_classes: 886
 work_history: [
     {
         "company": "Scaler",
