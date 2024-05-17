@@ -1,6 +1,6 @@
 ---
 alumni_name: Akash KV
-alumni_image_url: Data Science & ML June 2022
+alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/190/original/akashkv.webp?1715932455'
 role: Data Scientist
 batch: Data Science & ML June 2022
 location: Bangalore
@@ -33,5 +33,3 @@ additional_skills_count: 25
 - Statistical Data Analysis
 - SQL
 - Deep Learning
-
-

@@ -1,6 +1,6 @@
 ---
 instructor_name: Suraaj Hasija
-instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/795/original/surraj_%281%29.webp?1715621451
+instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/188/original/suraaj_%281%29.webp?1715931992
 class_rating: 4.66
 location: Delhi
 card_type: instructor_card
