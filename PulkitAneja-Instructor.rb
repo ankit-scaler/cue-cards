@@ -1,6 +1,6 @@
 ---
 instructor_name: Pulkit Aneja
-instructor_image_url: 
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/516/original/Pulkit_Aneja.webp?1716302646'
 class_rating: 4.67
 location: Bengaluru
 card_type: instructor_card

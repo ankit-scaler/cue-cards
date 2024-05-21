@@ -1,6 +1,6 @@
 ---
 instructor_name: Nikhil Sanghi
-instructor_image_url: 
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/518/original/Nikhil_pic_2.webp?1716302817'
 class_rating: 4.74
 location: Rajasthan
 card_type: instructor_card
@@ -15,11 +15,6 @@ work_history: [
         "company": "Scaler",
         "title": 'Lead Data Scientist and Instructor',
         "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/742/original/scaler.webp?1715593070"
-    },
-    {
-        "company": "Stonkr",
-        "title": 'Co-Founder',
-        "company_logo_url": ""
     },
 ]
 students_working_at_company_logos: [
