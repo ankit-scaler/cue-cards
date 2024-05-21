@@ -1,16 +1,16 @@
 ---
-alumni_name: Akshat Arora
-alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/556/original/akshatarora.webp?1716316619'
-role: AI/ML Scientist 
-batch: Data Science & ML March 2023
-location: Bangalore
+alumni_name: Gaurav Kumar Mishra
+alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/559/original/gaurav.webp?1716317740'
+role: Executive Data Scientist
+batch: Data Science & ML June 2022
+location: Delhi
 card_type: alumni_card
-linkedin_url: 'https://www.linkedin.com/in/akshat-arora-917014801401akki/'
-whatsapp_number: 9928004454
-pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/557/original/hcl_%281%29.webp?1716316996'
-post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/558/original/mindshare.webp?1716317063'
-hours_attended: 93
-problems_solved: 176
+linkedin_url: 'https://www.linkedin.com/in/gaurav-mishra-data-scientist/'
+whatsapp_number: 7532886793
+pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/561/original/student.webp?1716317942'
+post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/560/original/neilson.webp?1716317806' 
+hours_attended: 238
+problems_solved: 485
 mentor_details: [
     {
         image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/982/original/shivank_%281%29.webp?1715769654',
@@ -26,9 +26,9 @@ mentor_details: [
       },
   
 ]
-additional_skills_count: 45
+additional_skills_count: 26
 ---
 
 # Skills
-- Predictive Modeling
-- Statistical Modeling
+- Applied Mathematics
+- Generative AI
