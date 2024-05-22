@@ -1,6 +1,6 @@
 ---
 instructor_name: Anshuman Singh
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/739/original/anshuman.webp?1715592635'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/568/original/anshuman_%282%29.webp?1716342890'
 class_rating: 4.76
 location: Bengaluru
 card_type: instructor_card
@@ -9,8 +9,8 @@ introduction_bio: "Co-founder of Scaler.
 He previously led the development team for Facebook Messenger and played a pivotal role in establishing Facebook's first international office.
  As a former Technical Team Lead at Facebook, he collaborated closely with Mark Zuckerberg and contributed significantly to the company's global expansion.
  Recognized as a star coder, he has proudly represented India twice at the ICPC World Finals."
-num_learners: 38622+
-hour_classes: 1013+
+num_learners: 38622
+hour_classes: 1013
 work_history: [
     {
         "company": "Scaler",
