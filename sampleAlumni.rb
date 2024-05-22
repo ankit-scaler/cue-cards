@@ -12,18 +12,7 @@ post_scaler_org_logo_url:
 hours_attended: 
 problems_solved: 
 mentor_details: [
-  {
-    image: '',
-    name: '',
-    company_logo_url: '',
-    topic: ''
-  },
-  {
-    image: '',
-    name: '',
-    company_logo_url: '',
-    topic: ''
-  },
+  
   
 ]
 additional_skills_count: 
