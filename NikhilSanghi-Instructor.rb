@@ -5,7 +5,7 @@ class_rating: 4.74
 location: Rajasthan
 card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/nikhil-sanghi-8a8606a5/'
-introduction_bio: "Lead Instructor for DSML at Scaler.
+introduction_bio: "Lead Data Scientist and Instructor for DSML at Scaler.
 Co-founder of Stonkr.
 "
 num_learners: 6029

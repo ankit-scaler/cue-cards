@@ -1,6 +1,6 @@
 ---
 instructor_name: Shivank Agrawal
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/958/original/shivank.webp?1715765931'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/658/original/shivank_%282%29.webp?1716401583'
 class_rating: 4.8
 location: Bengaluru, KA, India
 card_type: instructor_card

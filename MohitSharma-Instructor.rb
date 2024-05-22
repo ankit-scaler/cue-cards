@@ -1,6 +1,6 @@
 ---
 instructor_name: Mohit Sharma
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/158/original/mohitsharma.webp?1715884066'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/673/original/mohitsharma_%282%29.webp?1716402747'
 class_rating: 4.8
 location: Delhi
 card_type: instructor_card
