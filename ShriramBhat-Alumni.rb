@@ -7,7 +7,7 @@ location: Bangalore
 card_type: alumni_card
 linkedin_url: 'https://www.linkedin.com/in/shriram-bhat-berolli/'
 whatsapp_number: 8884680706
-pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/869/original/hcl.webp?1715696143'
+pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/075/094/original/hcl_%282%29.webp?1716792369'
 post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/871/original/paypl.webp?1715696357'
 hours_attended: 278
 problems_solved: 179

@@ -1,16 +1,16 @@
 ---
-alumni_name: Akhil Kumar Alampally
-alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/169/original/aka.webp?1715887757'
-role: Software Engineer
+alumni_name: Krishna Chaitanya
+alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/075/390/original/Krishna_Chaitanya.webp?1716963279'
+role: Software Engineer III
 batch: Software Development June 2021
 location: Hyderabad
 card_type: alumni_card
-linkedin_url: 'https://www.linkedin.com/in/akhil-kumar-alampally/'
-whatsapp_number: 9582025588
-pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/170/original/adp.webp?1715888179'
-post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/075/095/original/credera_%281%29.webp?1716792963'
-hours_attended: 382
-problems_solved: 208
+linkedin_url: 'https://www.linkedin.com/in/krishna-chaitanya-046151141/'
+whatsapp_number: +91-9989475348
+pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/075/391/original/Innodatatics.webp?1716963473'
+post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/075/392/original/walmart.webp?1716963533'
+hours_attended: 134
+problems_solved: 197
 mentor_details: [
     {
         image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/859/original/namanBhalla_%281%29.webp?1715691506',
@@ -26,11 +26,9 @@ mentor_details: [
       },
   
 ]
-additional_skills_count: 28
-salary_hike: 150
+additional_skills_count: 17
 ---
 
 # Skills
-- Full-Stack Development
-- Product Management
-- Business Process Improvement
+- Python
+- Agile Methodologies
