@@ -30,5 +30,5 @@ additional_skills_count: 11
 ---
 
 # Skills
-- Swift
+- C++
 - DSA
