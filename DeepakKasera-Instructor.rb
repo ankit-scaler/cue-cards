@@ -1,6 +1,6 @@
 ---
 instructor_name: Deepak Kasera
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/186/original/deepak_%281%29.webp?1715930912'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/075/792/original/deepak_%282%29.webp?1717230559'
 class_rating: 4.79
 location: Gurgaon
 card_type: instructor_card
