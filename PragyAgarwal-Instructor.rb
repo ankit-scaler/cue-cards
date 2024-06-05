@@ -1,6 +1,6 @@
 ---
 instructor_name: Pragy Agarwal
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/373/original/Instructor_shoot0088_1-min.jpg?1715259927'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/076/468/original/Pragy_22_webp.webp?1717566561'
 class_rating: 4.72
 location: Bengaluru
 card_type: instructor_card
@@ -16,17 +16,17 @@ work_history: [
     {
         "company": "InterviewBit",
         "title": 'Senior Software Engineer',
-        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/098/original/interviewbit.png?1715088548"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/076/476/original/ibneww.webp?1717567943"
     },
     {
         "company": "Scaler",
         "title": 'Instructor & Mentor',
-        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/100/original/scaler.png?1715088617"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/742/original/scaler.webp?1715593070"
     },
     {
         "company": "Media.net",
         "title": 'Platform Engineer',
-        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/097/original/medianet.png?1715088395"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/076/483/original/medianet-logoww.webp?1717568763"
     },
 
 ]
@@ -42,3 +42,8 @@ students_working_at_company_logos: [
 - System Design Expert
 - DSA Expert
 - Java Expert
+  
+          
+          
+          
+        
