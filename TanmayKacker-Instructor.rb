@@ -1,6 +1,6 @@
----
+          ---
 instructor_name: Tanmay Kacker
-instructor_image_url: "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/076/484/original/TanmayKacker_Instructorw.webp?1717569679"
+instructor_image_url: "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/076/539/original/TanmayKacker_Instructor_%281%29_%281%29.webp?1717580248"
 class_rating: 4.71
 location: Bengaluru, KA, India
 card_type: instructor_card
@@ -34,3 +34,6 @@ students_working_at_company_logos: [
 - System Design Expert
 - DSA Expert
 - Java Expert
+  
+          
+        
