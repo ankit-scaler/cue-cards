@@ -1,6 +1,6 @@
 ---
 instructor_name: Shivank Agrawal
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/658/original/shivank_%282%29.webp?1716401583'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/076/961/original/Shivankk2w.webp?1717730019'
 class_rating: 4.8
 location: Bengaluru, KA, India
 card_type: instructor_card
@@ -42,4 +42,7 @@ students_working_at_company_logos: [
 # Skill Tags
 - System Design Expert
 - DSA Expert
-- Java Expert
+- Java Expert  
+          
+          
+        
