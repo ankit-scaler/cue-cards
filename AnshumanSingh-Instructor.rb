@@ -1,6 +1,6 @@
 ---
 instructor_name: Anshuman Singh
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/568/original/anshuman_%282%29.webp?1716342890'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/077/516/original/Anshumanww.webp?1717983488'
 class_rating: 4.76
 location: Bengaluru
 card_type: instructor_card
@@ -42,4 +42,6 @@ students_working_at_company_logos: [
 - DSA Expert
 - Python Expert
 - C++ Expert
-- Machine Learning Expert
+- Machine Learning Expert  
+          
+        
