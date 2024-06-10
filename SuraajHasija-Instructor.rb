@@ -30,7 +30,7 @@ work_history: [
     {
         "company": "ZS",
         "title": 'Business Technology Analyst',
-        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/792/original/zs.png?1715621126"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/077/515/original/zsw.webp?1717983288"
     },
 ]
 students_working_at_company_logos: [
