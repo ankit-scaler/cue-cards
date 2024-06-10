@@ -8,7 +8,7 @@ card_type: alumni_card
 linkedin_url: https://www.linkedin.com/in/arun-m-v-398952145/
 whatsapp_number: 
 pre_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/833/original/qualcomm_logo.webp?1715678608
-post_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/834/original/informatica_logo.jpeg?1715678838
+post_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/077/518/original/informatica_logow.webp?1717983630
 hours_attended: 816
 problems_solved: 1479
 mentor_details: [
