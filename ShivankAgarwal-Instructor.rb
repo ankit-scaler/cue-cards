@@ -25,7 +25,7 @@ work_history: [
     },
     {
         "company": "Oracle",
-        "title": 'oftware Development Manager',
+        "title": 'Software Development Manager',
         "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/965/original/oracle.webp?1715766308"
     },
   
