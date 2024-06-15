@@ -6,7 +6,6 @@ location: Bengaluru, KA, India
 card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/avijitroy06/'
 introduction_bio: "Lead Data Science Instructor, Scaler
-Ex-Data Science Instructor at topmate.io
 Ex-Data Scientist at Akaike Technologies
 Ex-Data and Applied Scientist at Microsoft"
 num_learners: 8855
