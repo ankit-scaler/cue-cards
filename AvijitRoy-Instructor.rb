@@ -1,6 +1,6 @@
 ---
 instructor_name: Avijit Roy
-instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/078/165/original/avijitroyweb.webp?1718432966
+instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/078/170/original/avijitw.webp?1718437862
 class_rating: 4.66
 location: Bengaluru, KA, India
 card_type: instructor_card
