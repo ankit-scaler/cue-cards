@@ -15,7 +15,7 @@ mentor_details: [
     {
     image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/079/197/original/Prateekw.webp?1719218837',
     name: 'Prateek Narang',
-    company_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/860/original/google_%281%29.webp?1715691585,
+    company_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/860/original/google_%281%29.webp?1715691585',
     topic: 'Taught Abinay DSA'
   },
   {
