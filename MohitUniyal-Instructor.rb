@@ -1,6 +1,6 @@
 ---
 instructor_name: Mohit Uniyal
-instructor_image_url: 
+instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/080/004/original/Mohit_Uniyalw.webp?1719823914
 class_rating: 4.73
 location: Delhi
 card_type: instructor_card
