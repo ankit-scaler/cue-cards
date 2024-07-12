@@ -1,4 +1,4 @@
-          ---
+---
 instructor_name: Tanmay Kacker
 instructor_image_url: "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/076/539/original/TanmayKacker_Instructor_%281%29_%281%29.webp?1717580248"
 class_rating: 4.71
