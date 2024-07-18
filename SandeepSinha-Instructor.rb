@@ -1,6 +1,6 @@
 ---
 instructor_name: Sandeep Sinha
-instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/082/230/original/SandeepSinha2ww.webp?1721285248
+instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/082/231/original/sandeepw.webp?1721285734
 class_rating: 4.72
 location: Bengaluru, KA
 card_type: instructor_card
