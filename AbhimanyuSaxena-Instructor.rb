@@ -15,15 +15,10 @@ work_history: [
       "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/742/original/scaler.webp?1715593070"
     },
     {
-      "company": "Google",
-      "title": "Senior Software Engineer",
-      "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/751/original/google.webp?1715597034"
+      "company": "Interviewbit",
+      "title": "Co-Founder",
+      "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/743/original/interviewbit.webp?1715593183"
     },
-    {
-      "company": "Amazon",
-      "title": "Software Engineer",
-      "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/032/original/amazon_%281%29.webp?1715789894"
-    }
 ]
 students_working_at_company_logos: [
     "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/745/original/google.webp?1715593708",
