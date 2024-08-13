@@ -23,6 +23,11 @@ work_history: [
         "company": "Fab.com",
         "title": "Software Architect"
         "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/086/041/original/Fab-logow.webp?1723556625"
+    },
+    {
+        "company": "Progress Software"
+        "title": "Programmer"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/086/043/original/progressw.webp?1723556771"
     }
 ]
 students_working_at_company_logos: [
