@@ -9,8 +9,8 @@ introduction_bio: "Instructor at Scaler.
 Ex-Senior Software Engineer, Arcesium.
 Ex-Software Development Engineer, Amazon.
 Ex-Software Engineer, Samsung."
-num_learners: 16155
-hour_classes: 2345
+num_learners: 19694
+hour_classes: 2780
 work_history: [
     {
         "company": "Scaler",
