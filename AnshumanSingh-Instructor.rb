@@ -14,12 +14,12 @@ hour_classes: 1013
 work_history: [
     {
         "company": "Scaler",
-        "title": 'Co-founder',
+        "title": 'Instructor, Co-founder',
         "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/742/original/scaler.webp?1715593070"
     },
     {
         "company": "InterviewBit",
-        "title": 'Co-founder',
+        "title": 'Instructor, Co-founder',
         "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/743/original/interviewbit.webp?1715593183"
     },
     {
