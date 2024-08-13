@@ -19,6 +19,11 @@ work_history: [
       "title": "Co-Founder",
       "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/743/original/interviewbit.webp?1715593183"
     },
+    {
+        "company": "Fab.com",
+        "title": "Software Architect"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/086/041/original/Fab-logow.webp?1723556625"
+    }
 ]
 students_working_at_company_logos: [
     "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/745/original/google.webp?1715593708",
