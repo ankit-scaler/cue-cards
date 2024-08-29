@@ -8,7 +8,7 @@ card_type: alumni_card
 linkedin_url: https://www.linkedin.com/in/coder-sanju/
 whatsapp_number: 7976495067
 pre_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/087/845/original/in_time_tec_logow.webp?1724923546
-post_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/087/846/original/amazonw.webp?1724923692
+post_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/087/852/original/Razorpay_logo.webp?1724925768
 hours_attended: 251
 problems_solved: 179
 mentor_details: [
