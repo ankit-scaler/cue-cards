@@ -22,7 +22,7 @@ mentor_details: [
         image: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/985/original/surraj_%282%29.webp?1715770309',
         name: 'Suraaj Hasija',
         company_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/986/original/mastercard_%281%29.webp?1715770428',
-        topic: 'Taught Business Case'
+        topic: 'Taught Gen AI'
       },
   
 ]
