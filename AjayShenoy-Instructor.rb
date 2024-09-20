@@ -1,6 +1,6 @@
 ---
 instructor_name:  Ajay Shenoy
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/304/original/ajay_photo-removebg-preview.webp?1726851964'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/308/original/ajay_shenoy.webp?1726852572'
 class_rating: 4.88
 location: Bengaluru
 card_type: instructor_card
