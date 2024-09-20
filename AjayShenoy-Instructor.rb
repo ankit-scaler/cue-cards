@@ -1,6 +1,6 @@
 ---
 instructor_name:  Ajay Shenoy
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/248/original/ajay_photo.webp?1726827420'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/304/original/ajay_photo-removebg-preview.webp?1726851964'
 class_rating: 4.88
 location: Bengaluru
 card_type: instructor_card
@@ -12,17 +12,17 @@ work_history: [
     {
         "company": "Scaler",
         "title": 'Lead - Data Science and Machine Learning',
-        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/297/original/scaler.image.webp?1726849036"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/305/original/scaler2.webp?1726852264"
     },
         {
         "company": "HARMAN International",
         "title": 'Sr. Principal Research Engineer',
-        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/298/original/harman_international_logo.webp?1726849064"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/306/original/harman2.webp?1726852301"
     },
         {
         "company": "Target",
         "title": 'Lead AI Scientist',
-        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/299/original/careers.webp?1726849105"
+        "company_logo_url": "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/307/original/target2.webp?1726852339"
     },
 ]
 students_working_at_company_logos: [
