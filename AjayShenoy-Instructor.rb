@@ -1,10 +1,10 @@
 ---
 instructor_name:  Ajay Shenoy
-instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/248/original/ajay_photo.webp?1726827420
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/248/original/ajay_photo.webp?1726827420'
 class_rating: 4.88
 location: Bengaluru
 card_type: instructor_card
-linkedin_url:https://www.linkedin.com/in/bastyajayshenoy/ 
+linkedin_url: 'https://www.linkedin.com/in/bastyajayshenoy/'
 introduction_bio: "Instructor at scaler "
 num_learners: 1,963
 hour_classes: 575.18
