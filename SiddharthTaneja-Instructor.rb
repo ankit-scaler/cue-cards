@@ -1,10 +1,10 @@
 ---
 instructor_name: Siddharth Taneja
-instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/688/original/file.webp?1727265793
+instructor_image_url: "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/090/688/original/file.webp?1727265793"
 class_rating: 4.82
 location: Bangalore
 card_type: instructor_card
-linkedin_url: https://www.linkedin.com/in/siddharth-taneja-98596588/
+linkedin_url: "https://www.linkedin.com/in/siddharth-taneja-98596588/"
 introduction_bio: Senior Engineering Manager & Instructor at Scaler
 num_learners:31291 
 hour_classes: 651.8
