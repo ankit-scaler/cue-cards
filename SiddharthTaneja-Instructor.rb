@@ -5,7 +5,7 @@ class_rating: 4.82
 location: Bangalore
 card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/siddharth-taneja-98596588/'
-introduction_bio: "Senior Engineering Manager & Instructor at Scaler."
+introduction_bio: "Director of Engineering & Instructor at Scaler."
 num_learners: 31291
 hour_classes: 651.8
 work_history: [
