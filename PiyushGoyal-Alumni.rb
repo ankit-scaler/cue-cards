@@ -1,6 +1,6 @@
 ---
 alumni_name: Piyush Goyal
-alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/074/025/original/piyush.webp?1715788599'
+alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/096/554/original/piyush_goyal_picture.webp?1731588837'
 role: Senior Software Engineer
 batch: 	Academy Apr21 Intermediate
 location: Noida
