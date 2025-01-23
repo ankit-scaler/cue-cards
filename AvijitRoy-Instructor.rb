@@ -1,7 +1,7 @@
 ---
 instructor_name: Avijit Roy
 instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/078/170/original/avijitw.webp?1718437862
-class_rating: 4.66
+class_rating: 4.68
 location: Bengaluru, KA, India
 card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/avijitroy06/'
@@ -9,7 +9,7 @@ introduction_bio: "Lead Data Science Instructor, Scaler
 Ex-Data Scientist at Akaike Technologies
 Ex-Data and Applied Scientist at Microsoft"
 num_learners: 8855
-hour_classes: 303
+hour_classes: 683.28
 work_history: [
     {
         "company": "Scaler",
