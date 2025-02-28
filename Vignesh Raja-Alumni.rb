@@ -1,14 +1,14 @@
 ---
 alumni_name: Vignesh Raja
-alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/111/910/original/Screenshot_2025-02-28_171507.webp?1740743225'
+alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/111/922/original/VigneshRaja.webp?1740746016'
 role: software developement engineer 2
-batch: Software Development	April 2023
+batch: Software Development April 2023
 location: chennai
 card_type: alumni_card
 linkedin_url: 'https://www.linkedin.com/in/vignesh-raja-k-384571176/'
-whatsapp_number: 
-pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/111/912/original/01cada77a0a7d326d85b7969fe26a728.webp?1740743588'
-post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/111/913/original/images.webp?1740743671'
+whatsapp_number: 9941084135
+pre_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/111/923/original/amazon-logo.webp?1740747322'
+post_scaler_org_logo_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/111/924/original/paypal-logo.webp?1740747520'
 hours_attended: 515.52
 problems_solved: 384
 mentor_details: [
