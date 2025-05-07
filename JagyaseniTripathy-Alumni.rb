@@ -2,7 +2,7 @@
 alumni_name: Jagyaseni Tripathy
 alumni_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/124/080/original/success-story-image_id.webp?1746621270'
 role: SDE 1
-batch: Software Development	Feburary 2021
+batch: Software Development Feburary 2021
 location: Hyderabad
 card_type: alumni_card
 linkedin_url: 'https://www.linkedin.com/in/jagyasenitripathy'
