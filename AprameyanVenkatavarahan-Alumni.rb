@@ -8,7 +8,7 @@ card_type: alumni_card
 linkedin_url:https://www.linkedin.com/in/aprameyan-v/	
 pre_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/132/680/original/pre_logo.webp?1750058259
 post_scaler_org_logo_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/132/681/original/post_logo.webp?1750058276
-hours_attended: 230.98
+hours_attended: 230
 problems_solved: 383
 mentor_details: [
   {
