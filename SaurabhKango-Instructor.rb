@@ -1,6 +1,6 @@
 ---
 instructor_name: Saurabh Kango
-instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/171/161/original/SaurabhKango_instructor-removebg-preview.webp?1766062188
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/171/166/original/SaurabhKango_instructor-removebg-preview_%281%29.webp?1766062861'
 class_rating: 4.75
 location: Bengaluru, Karnataka, India
 card_type: instructor_card
