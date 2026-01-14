@@ -1,5 +1,5 @@
 ---
-instructor_name: Shubham shukla
+instructor_name: Shubham Shukla
 instructor_image_url: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/093/639/original/shubham_shukla-removebg-preview.webp?1728898859
 class_rating: 4.51
 location: bangalore
