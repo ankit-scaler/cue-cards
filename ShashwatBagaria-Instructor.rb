@@ -1,6 +1,6 @@
 ---
 instructor_name: Shashwat Bagaria
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/178/600/original/Shashwat.webp?1770202135'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/178/603/original/Shashwat_%281%29.webp?1770202453'
 class_rating: 4.78
 location: Lucknow, Uttar Pradesh, India
 card_type: instructor_card
