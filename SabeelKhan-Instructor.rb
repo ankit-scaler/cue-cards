@@ -1,6 +1,6 @@
 ---
 instructor_name: Sabeel Khan
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/181/955/original/Sabeel-removebg-preview.webp?1772099324'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/181/958/original/Sabeel-removebg-preview_%281%29.webp?1772099725'
 class_rating: 4.93
 location: Delhi, India
 card_type: instructor_card
