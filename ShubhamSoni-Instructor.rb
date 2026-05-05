@@ -38,6 +38,7 @@ students_working_at_company_logos: [
 ---
 
 # Skill Tags
-- LLMOps
-- ETL
-- GANs
+- Software Design
+- Docker
+- HLD
+- LLD
