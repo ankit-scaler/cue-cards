@@ -5,10 +5,10 @@ class_rating: 4.71
 location: Bengaluru, KA, India
 card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/jindal-rohit540/'
-introduction_bio: "Senior Data Scientist @ Target.
-IISc Bangalore (AIR 79).
-University of Cambridge.
-DTU(DCE) Rank Opener."
+introduction_bio: "Lead AI Scientist.
+ex-Mastercard.
+ex-State Street.
+IISc Bangalore and University of Cambridge."
 num_learners: 1900
 hour_classes: 947
 work_history: [
