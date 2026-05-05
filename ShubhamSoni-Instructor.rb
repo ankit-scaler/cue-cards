@@ -1,6 +1,6 @@
 ---
 instructor_name: Shubham Soni
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/194/459/original/Shubham_Soni-removebg-preview_%281%29.webp?1777982514'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/194/460/original/Shubham_Soni-removebg-preview_%281%29.webp?1777982680'
 class_rating: 4.8
 location: Bengaluru, Karnataka, India
 card_type: instructor_card
