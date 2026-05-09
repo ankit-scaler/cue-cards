@@ -7,7 +7,7 @@ card_type: instructor_card
 linkedin_url: 'https://www.linkedin.com/in/tarun-malhotra-72973aa6/'
 introduction_bio: "Lead Software Engineer. 
 Ex Google, DirectI, Scaler Academy"
-num_learners: 2143
+num_learners: 2284
 hour_classes: 962
 work_history: [
     {
