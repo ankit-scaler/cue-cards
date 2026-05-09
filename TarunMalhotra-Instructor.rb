@@ -1,6 +1,6 @@
 ---
 instructor_name: Tarun Malhotra
-instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/195/520/original/Tarun-removebg-preview.png?1778315375'
+instructor_image_url: 'https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/195/521/original/Tarun.webp?1778315874'
 class_rating: 4.81
 location: Delhi, India
 card_type: instructor_card
